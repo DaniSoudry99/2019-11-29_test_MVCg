@@ -1,0 +1,19 @@
+h1, h3
+{
+  margin-left: 12%;
+}
+.info
+{
+  margin-left: 15%;
+  margin-top:50px;
+}
+.description
+{
+  width: 500px;
+}
+.droite
+{
+  position: absolute;
+  left: 60%;
+  top: 15%;
+}
